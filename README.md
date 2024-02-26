@@ -18,4 +18,4 @@ Classification: The algorithm then assigns the class based on the majority vote 
 
 
 Predictions for k values between 1-19:
-![KNN RESULTS] .\KNN_RESUTLS.png
+![KNN RESULTS] (KNN_RESUTLS.png)
